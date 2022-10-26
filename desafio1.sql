@@ -81,8 +81,8 @@ DROP DATABASE IF EXISTS SpotifyClone;
   VALUES
     ('Barbara Liskov', '1940-01-01', 1),
     ('Robert Cecil Martin', '1964-01-01', 1),
-    ('Martin Fowler', '1985-01-01', 4),
     ('Ada Lovelace', '1976-01-01', 4),
+    ('Martin Fowler', '1985-01-01', 4),
     ('Sandi Metz', '1964-01-01', 4),
     ('Paulo Freire', '2003-01-01', 2),
     ('Bell Hooks', '1996-01-01', 2),
